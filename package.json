@@ -1,0 +1,23 @@
+{
+  "name": "venda-de-carros---oportunidade-única",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "framer-motion": "11.2.10",
+    "embla-carousel-react": "8.1.3",
+    "lucide-react": "0.395.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
